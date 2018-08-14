@@ -1,2 +1,2 @@
 # StarwarsHyperspaceLWP
-Star Wars Hyperspace Live wallpaper source code &amp; apk installer. 
+Star Wars Hyperspace Live wallpaper source code.
