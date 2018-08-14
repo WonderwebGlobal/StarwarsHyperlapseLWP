@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\Users\polot\AppData\Local\Temp\star_wars_hyperspace_lwp_hd5010501211534870387\livewallpaper\build\intermediates\exploded-aar\org.rajawali3d\rajawali\1.1.777\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8baab582298467f0fdc423e9e61b3972862a94e4">
+        <dex dex="F:\Users\polot\AppData\Local\Temp\star_wars_hyperspace_lwp_hd5010501211534870387\livewallpaper\build\intermediates\pre-dexed\release\org.rajawali3d-rajawali-1.1.777_ff05038331f5fecb7da6bc3a92ef2f2819b3533f.jar" />
+    </item>
+
+</items>

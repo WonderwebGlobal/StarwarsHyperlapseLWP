@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "F:\\Users\\polot\\AppData\\Local\\Temp\\star_wars_hyperspace_lwp_hd5010501211534870387\\livewallpaper\\build\\intermediates\\res\\merged\\release\\raw\\fxaa_vertex_shader.glsl",
+        "source": "F:\\Users\\polot\\AppData\\Local\\Temp\\star_wars_hyperspace_lwp_hd5010501211534870387\\livewallpaper\\build\\intermediates\\exploded-aar\\org.rajawali3d\\rajawali\\1.1.777\\res\\raw\\fxaa_vertex_shader.glsl"
+    },
+    {
+        "merged": "F:\\Users\\polot\\AppData\\Local\\Temp\\star_wars_hyperspace_lwp_hd5010501211534870387\\livewallpaper\\build\\intermediates\\res\\merged\\release\\raw\\grey_scale_fragment_shader.glsl",
+        "source": "F:\\Users\\polot\\AppData\\Local\\Temp\\star_wars_hyperspace_lwp_hd5010501211534870387\\livewallpaper\\build\\intermediates\\exploded-aar\\org.rajawali3d\\rajawali\\1.1.777\\res\\raw\\grey_scale_fragment_shader.glsl"
+    },
+    {
+        "merged": "F:\\Users\\polot\\AppData\\Local\\Temp\\star_wars_hyperspace_lwp_hd5010501211534870387\\livewallpaper\\build\\intermediates\\res\\merged\\release\\raw\\minimal_vertex_shader.glsl",
+        "source": "F:\\Users\\polot\\AppData\\Local\\Temp\\star_wars_hyperspace_lwp_hd5010501211534870387\\livewallpaper\\build\\intermediates\\exploded-aar\\org.rajawali3d\\rajawali\\1.1.777\\res\\raw\\minimal_vertex_shader.glsl"
+    },
+    {
+        "merged": "F:\\Users\\polot\\AppData\\Local\\Temp\\star_wars_hyperspace_lwp_hd5010501211534870387\\livewallpaper\\build\\intermediates\\res\\merged\\release\\raw\\video.mp4",
+        "source": "F:\\Users\\polot\\AppData\\Local\\Temp\\star_wars_hyperspace_lwp_hd5010501211534870387\\livewallpaper\\src\\main\\res\\raw\\video.mp4"
+    },
+    {
+        "merged": "F:\\Users\\polot\\AppData\\Local\\Temp\\star_wars_hyperspace_lwp_hd5010501211534870387\\livewallpaper\\build\\intermediates\\res\\merged\\release\\raw\\copy_fragment_shader.glsl",
+        "source": "F:\\Users\\polot\\AppData\\Local\\Temp\\star_wars_hyperspace_lwp_hd5010501211534870387\\livewallpaper\\build\\intermediates\\exploded-aar\\org.rajawali3d\\rajawali\\1.1.777\\res\\raw\\copy_fragment_shader.glsl"
+    },
+    {
+        "merged": "F:\\Users\\polot\\AppData\\Local\\Temp\\star_wars_hyperspace_lwp_hd5010501211534870387\\livewallpaper\\build\\intermediates\\res\\merged\\release\\raw\\fog_fragment_shader.glsl",
+        "source": "F:\\Users\\polot\\AppData\\Local\\Temp\\star_wars_hyperspace_lwp_hd5010501211534870387\\livewallpaper\\build\\intermediates\\exploded-aar\\org.rajawali3d\\rajawali\\1.1.777\\res\\raw\\fog_fragment_shader.glsl"
+    },
+    {
+        "merged": "F:\\Users\\polot\\AppData\\Local\\Temp\\star_wars_hyperspace_lwp_hd5010501211534870387\\livewallpaper\\build\\intermediates\\res\\merged\\release\\raw\\fxaa_fragment_shader.glsl",
+        "source": "F:\\Users\\polot\\AppData\\Local\\Temp\\star_wars_hyperspace_lwp_hd5010501211534870387\\livewallpaper\\build\\intermediates\\exploded-aar\\org.rajawali3d\\rajawali\\1.1.777\\res\\raw\\fxaa_fragment_shader.glsl"
+    },
+    {
+        "merged": "F:\\Users\\polot\\AppData\\Local\\Temp\\star_wars_hyperspace_lwp_hd5010501211534870387\\livewallpaper\\build\\intermediates\\res\\merged\\release\\raw\\blur_fragment_shader.glsl",
+        "source": "F:\\Users\\polot\\AppData\\Local\\Temp\\star_wars_hyperspace_lwp_hd5010501211534870387\\livewallpaper\\build\\intermediates\\exploded-aar\\org.rajawali3d\\rajawali\\1.1.777\\res\\raw\\blur_fragment_shader.glsl"
+    },
+    {
+        "merged": "F:\\Users\\polot\\AppData\\Local\\Temp\\star_wars_hyperspace_lwp_hd5010501211534870387\\livewallpaper\\build\\intermediates\\res\\merged\\release\\raw\\blend_add_fragment_shader.glsl",
+        "source": "F:\\Users\\polot\\AppData\\Local\\Temp\\star_wars_hyperspace_lwp_hd5010501211534870387\\livewallpaper\\build\\intermediates\\exploded-aar\\org.rajawali3d\\rajawali\\1.1.777\\res\\raw\\blend_add_fragment_shader.glsl"
+    },
+    {
+        "merged": "F:\\Users\\polot\\AppData\\Local\\Temp\\star_wars_hyperspace_lwp_hd5010501211534870387\\livewallpaper\\build\\intermediates\\res\\merged\\release\\raw\\color_threshold_shader.glsl",
+        "source": "F:\\Users\\polot\\AppData\\Local\\Temp\\star_wars_hyperspace_lwp_hd5010501211534870387\\livewallpaper\\build\\intermediates\\exploded-aar\\org.rajawali3d\\rajawali\\1.1.777\\res\\raw\\color_threshold_shader.glsl"
+    },
+    {
+        "merged": "F:\\Users\\polot\\AppData\\Local\\Temp\\star_wars_hyperspace_lwp_hd5010501211534870387\\livewallpaper\\build\\intermediates\\res\\merged\\release\\raw\\scanline_fragment_shader.glsl",
+        "source": "F:\\Users\\polot\\AppData\\Local\\Temp\\star_wars_hyperspace_lwp_hd5010501211534870387\\livewallpaper\\build\\intermediates\\exploded-aar\\org.rajawali3d\\rajawali\\1.1.777\\res\\raw\\scanline_fragment_shader.glsl"
+    },
+    {
+        "merged": "F:\\Users\\polot\\AppData\\Local\\Temp\\star_wars_hyperspace_lwp_hd5010501211534870387\\livewallpaper\\build\\intermediates\\res\\merged\\release\\raw\\blend_screen_fragment_shader.glsl",
+        "source": "F:\\Users\\polot\\AppData\\Local\\Temp\\star_wars_hyperspace_lwp_hd5010501211534870387\\livewallpaper\\build\\intermediates\\exploded-aar\\org.rajawali3d\\rajawali\\1.1.777\\res\\raw\\blend_screen_fragment_shader.glsl"
+    },
+    {
+        "merged": "F:\\Users\\polot\\AppData\\Local\\Temp\\star_wars_hyperspace_lwp_hd5010501211534870387\\livewallpaper\\build\\intermediates\\res\\merged\\release\\raw\\sepia_fragment_shader.glsl",
+        "source": "F:\\Users\\polot\\AppData\\Local\\Temp\\star_wars_hyperspace_lwp_hd5010501211534870387\\livewallpaper\\build\\intermediates\\exploded-aar\\org.rajawali3d\\rajawali\\1.1.777\\res\\raw\\sepia_fragment_shader.glsl"
+    },
+    {
+        "merged": "F:\\Users\\polot\\AppData\\Local\\Temp\\star_wars_hyperspace_lwp_hd5010501211534870387\\livewallpaper\\build\\intermediates\\res\\merged\\release\\raw\\vignette_fragment_shader.glsl",
+        "source": "F:\\Users\\polot\\AppData\\Local\\Temp\\star_wars_hyperspace_lwp_hd5010501211534870387\\livewallpaper\\build\\intermediates\\exploded-aar\\org.rajawali3d\\rajawali\\1.1.777\\res\\raw\\vignette_fragment_shader.glsl"
+    }
+]

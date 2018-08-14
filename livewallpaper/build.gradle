@@ -1,0 +1,33 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 19
+    buildToolsVersion "25.0.1"
+
+    defaultConfig {
+        applicationId "com.customlivewallpapercreator.live_wallpaper.star_wars_hyperspace_lwp_hd"
+        minSdkVersion 19
+        targetSdkVersion 19
+    }
+
+    signingConfigs {
+        release {
+            storeFile file("default-key.keystore")
+            storePassword "shakese-kr8ter"
+            keyAlias "shakese-key"
+            keyPassword "shakese-kr8ter"
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            signingConfig signingConfigs.release
+        }
+    }
+}
+
+dependencies {
+    compile 'org.rajawali3d:rajawali:1.1.777@aar'
+
+}
